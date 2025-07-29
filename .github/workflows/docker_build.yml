@@ -1,4 +1,4 @@
-name: Build on DockerHub
+name: New Build on DockerHub
 on:
  push:
 env:
